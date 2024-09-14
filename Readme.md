@@ -1,4 +1,4 @@
-# Pysploit
+# Pysploit [ works only in Linux Env ]
     python Script to Interact with Metasploit Framework [ ! ]
 
     [ $ ] The Metasploit Interactor 
