@@ -9,3 +9,5 @@
 
 # About Metsploit
 ![download (1)](https://github.com/user-attachments/assets/a0e96b70-6d35-4cf5-95cf-2611e86d542d)
+Metasploit is a powerful and widely used penetration testing and exploitation framework.
+It provides security professionals, ethical hackers, and penetration testers with the tools necessary to identify and exploit vulnerabilities in systems, networks, and applications.
