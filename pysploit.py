@@ -1,3 +1,16 @@
+# /bin/python3
+
+# *********************************************
+# Author : Sanjai sa [ Mr Whitehat ]
+# Date : 19 - 09 - 2024
+# Last-Modified : 19 - 09 - 2024
+# *********************************************
+
+
+# %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Operating System Support : [ Linux ] [ Penetration Testing Distros ]
+# %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 import os
 import time
 import pyfiglet
